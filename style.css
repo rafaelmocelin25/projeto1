@@ -1,6 +1,7 @@
 body{
-    background-color:rgb(126, 243, 224), 0.411);
+    background-color:rgb(126, 243, 224);
 }
+
 #sonic{
     width: 150px;
     border: solid 10px blue;
@@ -11,6 +12,6 @@ body{
 }
 .rodape{
     background-color: cyan;
-    color: rgb(0, 0, 0)
+    color: rgb(0, 0, 0);
     text-align: center;
 }
