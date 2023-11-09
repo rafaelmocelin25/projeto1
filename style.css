@@ -1,12 +1,8 @@
 #Sonic{
     width: 150px ;
-    border: solid  20px rgb(21, 92, 172) ;
+    border: solid  8px rgb(21, 92, 172) ;
 }
 
 .principal{
     background-color: rgb(139, 241, 165);
-}
-#Sonica{
-    width: 200px ;
-    border: solid 8px rgb(21, 92, 172) ;
 }
