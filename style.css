@@ -6,3 +6,8 @@
 .principal{
     background-color: rgb(139, 241, 165);
 }
+.rodape{
+    background-color: cyan;
+    color: aliceblue;
+    text-align: center;
+}
