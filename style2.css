@@ -1,9 +1,10 @@
 .cabecalhão{
+    background-color: darkslategray;
     border: 10px;
     border-color: blue;
-    border-style: inset;
+    border-style:dashed;
     margin: 10px;
-    color: burlywood;
+    color: rgb(37, 245, 193)222, 196);
     font-weight: 400;
 }
 #sonic2{
