@@ -2,4 +2,7 @@
     border: 10px;
     border-color: blue;
     border-style: inset;
+    margin: 10px;
+    color: burlywood;
+    font-weight: 400;
 }
