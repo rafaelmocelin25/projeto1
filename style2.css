@@ -1,4 +1,5 @@
 .cabecalhão{
-    border: 10px black;
-
+    border: 10px;
+    border-color: blue;
+    border-style: inset;
 }
