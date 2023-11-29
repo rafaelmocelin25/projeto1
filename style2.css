@@ -27,5 +27,5 @@
 .listalinks:hover{
     font-size: 25px;   
    color: rgb(162, 0, 255);
-   text-decoration: none;
+   text-decoration: underline;
    }
