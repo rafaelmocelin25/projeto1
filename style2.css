@@ -19,32 +19,12 @@
     margin: 30px;
     color: gold;
 }
-#link1{
+#listalinks{
     font-size: 20px;   
    color: rgb(189, 189, 202);
    text-decoration: none;
 }
-#link1:hover{
-    font-size: 25px;   
-   color: rgb(162, 0, 255);
-   text-decoration: none;
-   }
-#link2{
-    font-size: 20px;   
-   color: rgb(204, 204, 214);
-   text-decoration: none;
-   }
-#link2:hover{
-    font-size: 25px;   
-   color: rgb(162, 0, 255);
-   text-decoration: none;
-   }
-#link3{
-    font-size: 20px;   
-   color: rgb(212, 212, 221);
-   text-decoration: none;
-   }
-#link3:hover{
+#listalinks:hover{
     font-size: 25px;   
    color: rgb(162, 0, 255);
    text-decoration: none;
