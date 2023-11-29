@@ -21,7 +21,7 @@
 }
 #link1{
     font-size: 20px;   
-   color: blue;
+   color: rgb(189, 189, 202);
    text-decoration: none;
 }
 #link1:hover{
@@ -31,7 +31,7 @@
    }
 #link2{
     font-size: 20px;   
-   color: blue;
+   color: rgb(204, 204, 214);
    text-decoration: none;
    }
 #link2:hover{
@@ -41,7 +41,7 @@
    }
 #link3{
     font-size: 20px;   
-   color: blue;
+   color: rgb(212, 212, 221);
    text-decoration: none;
    }
 #link3:hover{
